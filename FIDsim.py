@@ -2,8 +2,7 @@
 """
 Simulating FID signal
 
-Original Author: Mark Armstrong, University of Windsor. 2018.
-Comments & Modifications: Layale Bazzi, University of Windsor. 2019.
+Original Author: Layale Bazzi, University of Windsor. 2019.
 Features: 
     -Simulates FID signal for any T1/T2 combination
     -B0 inhomogeneity incorporated (see mripy.py for details)
